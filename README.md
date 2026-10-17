@@ -1,2 +1,4 @@
-# asdasd-511d0ab5
-Created by Blitzy
+# Blitzy Welcome Script
+
+Requires Node.js 18 or later.
+Run: `node index.js`
