@@ -1,2 +1,4 @@
-# asdasd-511d0ab5
-Created by Blitzy
+# Blitzy
+
+No install step: the program uses only the Node.js runtime.
+Run it with `node index.js`.
